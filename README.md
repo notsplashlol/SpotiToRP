@@ -8,4 +8,4 @@ v1.0.0 (official release)
 none
 
 # REQUIREMENTS
-run "pip install pypresence pygetwindow psutil" in cmd
+run "pip install pypresence psutil pygetwindow requests" in cmd
