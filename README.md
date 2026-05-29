@@ -6,3 +6,6 @@ v1.0.0 (official release)
 
 # Known Bugs
 none
+
+# REQUIREMENTS
+run "pip install pypresence pygetwindow psutil" in cmd
